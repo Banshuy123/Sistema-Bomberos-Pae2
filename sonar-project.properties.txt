@@ -1,0 +1,2 @@
+sonar.projectKey=Banshuy123_Sistema-Bomberos-Pae2
+sonar.organization=banshuy123
